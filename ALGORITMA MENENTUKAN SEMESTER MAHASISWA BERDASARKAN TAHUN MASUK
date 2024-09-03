@@ -1,0 +1,9 @@
+*Output:
+  • Masukkan tahun masuk mahasiswa.
+  • Masukkan tahun akademik saat ini.
+*Proses:
+  • Hitung selisih tahun antara tahun akademik saat ini dan tahun masuk mahasiswa.
+  • Kalikan selisih tahun dengan 2 untuk mendapatkan jumlah semester yang telah ditempuh.
+  • Jika tahun akademik saat ini dimulai dengan angka ganjil (misal 20231), maka tambahkan 1 semester karena mahasiswa dianggap sudah menempuh setengah semester di tahun akademik saat ini.
+*Output:
+  •Tampilkan semester mahasiswa saat ini.
