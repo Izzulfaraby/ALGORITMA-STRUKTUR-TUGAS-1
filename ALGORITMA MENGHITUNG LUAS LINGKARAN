@@ -1,7 +1,7 @@
 *Input/inisiasi
-  •maaukkan jari-jari dalam cm
+  •masukkan jari-jari (r) dalam cm
   •masukkan luas dalam cm²
-  •masukkan nilai (pi) π = 3,14
+  •masukkan nilai phi (π)= 3,14
 *Proses
   •hitung luas lingkaran menggunakan rumus: Luas = π×r²
 *Output
